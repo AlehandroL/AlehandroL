@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlehandroL, I'm a self-taught developer and I have a bachelor degree in economics
+- 👋 Hi, I’m @AlehandroL, I'm a self-taught developer and I have a bachelor degree in industrial engineering
 - 👀 I’m interested in backend development positions.
 - 🌱 I’m currently working in my applications portfolio.
 
